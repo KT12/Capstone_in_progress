@@ -9,6 +9,7 @@ Notebook of ideas for capstone:
 *)  KNN Wordvec
 *)  Lemmatize then bag of words instead of stemming
 *)  Binary bag of words >> Mahalanobis distance
+*) Wordnet Morphy use information content
 
 
 Not capstone:
